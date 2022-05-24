@@ -8,7 +8,7 @@
 
 body {
     font-size: 62.5%;
-    background-image: url("https://github.com/nileshgarg0023/Huddle-landing-page-with-a-single-introductory-section/blob/261e4d8167e95916e845a8f6e3d0bd15388cc6ea/design/desktop-design.jpg");
+    background-image: url("images/bg-desktop.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: hsl(257, 40%, 49%);
